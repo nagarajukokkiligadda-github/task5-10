@@ -1,0 +1,11 @@
+@media (max-width: 500px) {
+    img {
+      width: 100%;
+    }
+  }
+  
+  @media (min-width: 501px) {
+    img {
+      width: 50%;
+    }
+  }
